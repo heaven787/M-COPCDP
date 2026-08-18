@@ -90,6 +90,3 @@ RESULT objective=... distance=... cpu=... seed=... route=1,3,5,...,2
 | `mo.cpp/h` | Move / neighborhood helpers |
 
 
-## Contact
-
-Linghui Meng — menglinghui77@outlook.com
