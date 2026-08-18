@@ -25,11 +25,6 @@ mingw32-make
 
 The executable is `cop_hea` (or `cop_hea.exe` on Windows).
 
-Clean build artifacts:
-
-```bash
-make clean
-```
 
 ## Run
 
