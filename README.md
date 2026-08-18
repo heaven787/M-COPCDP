@@ -89,9 +89,6 @@ RESULT objective=... distance=... cpu=... seed=... route=1,3,5,...,2
 | `readdata.cpp/h` | Instance reader |
 | `mo.cpp/h` | Move / neighborhood helpers |
 
-## Instance data
-
-Benchmark instances are **not** included in this folder. They can be obtained from Jandaghi et al. (2021) or the project data repository cited in the manuscript.
 
 ## Contact
 
