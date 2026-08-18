@@ -2,7 +2,7 @@
 
 C++ implementation of the hybrid evolutionary algorithm (HEA) for the **Categorized Orienteering Problem with Count-Dependent Profits (COPCDP)**.
 
-Corresponding paper: *A Hybrid Evolutionary Algorithm for the Categorized Orienteering Problem with Count-Dependent Profits*.
+This code accompanies the paper: *A Hybrid Evolutionary Algorithm for the Categorized Orienteering Problem with Count-Dependent Profits*.
 
 ## Requirements
 
